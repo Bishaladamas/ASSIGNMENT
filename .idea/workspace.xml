@@ -21,8 +21,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd609576-8075-4231-8254-a71235ea067f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/DIAMOND shape..c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/pt1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/cache-v2-44c173b858289b5a3f97.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-657d3a1ed9da2cd7aed8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-05T19-37-17-0620.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT_-Debug-4bd15fcedd9d32dc1b19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +73,10 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/bisha/CLionProjects/ASSIGNMENT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696534437734</updated>
-      <workItem from="1696534439561" duration="195000" />
+      <workItem from="1696534439561" duration="1085000" />
     </task>
     <servers />
   </component>

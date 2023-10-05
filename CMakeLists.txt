@@ -3,5 +3,6 @@ project(ASSIGNMENT_ C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(ASSIGNMENT_ #main.c
-        "DIAMOND shape..c")
+add_executable(ASSIGNMENT_ pt1.c
+        #"DIAMOND shape..c"
+        pt1.c)
