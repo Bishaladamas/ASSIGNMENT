@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,18 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd609576-8075-4231-8254-a71235ea067f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/pt2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/Decimal number to bionery.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e6f8b3c310e3ba484b41.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-05T19-52-41-0660.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT_-Debug-bc56a4b76ad97359bd6f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/ASSIGNMENT_.dir/pt1.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/ASSIGNMENT_.dir/pt1.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,41 +44,47 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="2.2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2WMFFPDu68jvsdDscIJHQYvlXzm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/bisha/CLionProjects/ASSIGNMENT/CMakeLists.txt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bisha/CLionProjects/ASSIGNMENT/CMakeLists.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="C/C++ File.pt1.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="C/C++ File.Decimal number to bionery.c">
     <configuration name="ASSIGNMENT_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ASSIGNMENT_" TARGET_NAME="ASSIGNMENT_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ASSIGNMENT_" RUN_TARGET_NAME="ASSIGNMENT_">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Decimal number to bionery.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ASSIGNMENT_" TARGET_NAME="Decimal number to bionery.c" CONFIG_NAME="Decimal number to bionery.c">
+      <option name="sourceFile" value="Decimal number to bionery.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="pt1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ASSIGNMENT_" TARGET_NAME="pt1.c" CONFIG_NAME="pt1.c">
@@ -95,11 +94,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.Decimal number to bionery.c" />
       <item itemvalue="C/C++ File.pt1.c" />
       <item itemvalue="CMake Application.ASSIGNMENT_" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Decimal number to bionery.c" />
         <item itemvalue="C/C++ File.pt1.c" />
       </list>
     </recent_temporary>
@@ -112,7 +113,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696534437734</updated>
-      <workItem from="1696534439561" duration="1755000" />
+      <workItem from="1696534439561" duration="2267000" />
+      <workItem from="1696600787176" duration="3000" />
     </task>
     <servers />
   </component>

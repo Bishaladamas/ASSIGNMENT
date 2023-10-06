@@ -29,8 +29,9 @@ CMAKE_ADDR2LINE:FILEPATH=C:/Users/bisha/AppData/Local/JetBrains/CLion 2023.2.2/b
 //Path to a program.
 CMAKE_AR:FILEPATH=C:/Users/bisha/AppData/Local/JetBrains/CLion 2023.2.2/bin/mingw/bin/ar.exe
 
-//No help, variable specified on the command line.
-CMAKE_BUILD_TYPE:UNINITIALIZED=Debug
+//Choose the type of build, options are: None Debug Release RelWithDebInfo
+// MinSizeRel ...
+CMAKE_BUILD_TYPE:STRING=Debug
 
 //Enable colored diagnostics throughout.
 CMAKE_COLOR_DIAGNOSTICS:BOOL=ON
@@ -97,8 +98,8 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/ASSIGNMENT_
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Users/bisha/AppData/Local/JetBrains/CLion 2023.2.2/bin/mingw/bin/ld.exe
 
-//No help, variable specified on the command line.
-CMAKE_MAKE_PROGRAM:UNINITIALIZED=C:/Users/bisha/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe
+//make program
+CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/bisha/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.
