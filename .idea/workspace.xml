@@ -21,15 +21,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd609576-8075-4231-8254-a71235ea067f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/Function.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGNMENT/Function2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3e87c97e2686828962c3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-05T20-01-54-0418.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT_-Debug-09059aba35c8064e9b17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-05d24eab723f476658b6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-11T10-24-43-0551.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT_-Debug-052fd830fcc4a4d0d6a4.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/ASSIGNMENT_.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIGNMENT/cmake-build-debug/build.ninja" afterDir="false" />
@@ -122,7 +122,7 @@
       <updated>1696534437734</updated>
       <workItem from="1696534439561" duration="2267000" />
       <workItem from="1696600787176" duration="352000" />
-      <workItem from="1697019706536" duration="1984000" />
+      <workItem from="1697019706536" duration="3063000" />
     </task>
     <servers />
   </component>
