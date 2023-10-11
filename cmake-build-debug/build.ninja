@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/bisha/CLionProjects/ASSIGNMENT/cmake-build-debug
 
 build cmake_object_order_depends_target_ASSIGNMENT_: phony || CMakeFiles/ASSIGNMENT_.dir
 
-build CMakeFiles/ASSIGNMENT_.dir/Function2.c.obj: C_COMPILER__ASSIGNMENT__unscanned_Debug C$:/Users/bisha/CLionProjects/ASSIGNMENT/Function2.c || cmake_object_order_depends_target_ASSIGNMENT_
-  DEP_FILE = CMakeFiles\ASSIGNMENT_.dir\Function2.c.obj.d
+build CMakeFiles/ASSIGNMENT_.dir/Function3.c.obj: C_COMPILER__ASSIGNMENT__unscanned_Debug C$:/Users/bisha/CLionProjects/ASSIGNMENT/Function3.c || cmake_object_order_depends_target_ASSIGNMENT_
+  DEP_FILE = CMakeFiles\ASSIGNMENT_.dir\Function3.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ASSIGNMENT_.dir
   OBJECT_FILE_DIR = CMakeFiles\ASSIGNMENT_.dir
@@ -63,7 +63,7 @@ build CMakeFiles/ASSIGNMENT_.dir/Function2.c.obj: C_COMPILER__ASSIGNMENT__unscan
 #############################################
 # Link the executable ASSIGNMENT_.exe
 
-build ASSIGNMENT_.exe: C_EXECUTABLE_LINKER__ASSIGNMENT__Debug CMakeFiles/ASSIGNMENT_.dir/Function2.c.obj
+build ASSIGNMENT_.exe: C_EXECUTABLE_LINKER__ASSIGNMENT__Debug CMakeFiles/ASSIGNMENT_.dir/Function3.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ASSIGNMENT_.dir
