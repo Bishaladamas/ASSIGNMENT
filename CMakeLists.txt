@@ -9,7 +9,8 @@ add_executable(ASSIGNMENT_#Decimal number to binary
 
        # Function2.c
        # Function2.c
-        Function3.c)
+       # Function3.c
+        Function4.c)
 
 
 
